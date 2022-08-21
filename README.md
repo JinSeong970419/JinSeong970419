@@ -14,4 +14,4 @@
 ![myoungji's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinSeong970419&show_icons=true&theme=material-palenight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinSeong970419&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlstjd2550)](https://solved.ac/myoungji)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlstjd2550)](https://solved.ac/wlstjd2550)
