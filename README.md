@@ -1,6 +1,7 @@
 ## BYEON JIN SEONG
 
 <span> 💌 Contact : wlstjd2550@gmail.com </span> <br>
+<span> 💌 itch.io : https://jinseong970419.itch.io </span> <br>
 <span> 🔎 부지런한 소통을 하고싶은 개발자, 변진성입니다. </span> <br>
 <span> 🐎 결과도 중요하지만 그 과정에서 얻는 배움을 좋아합니다 </span>
 
